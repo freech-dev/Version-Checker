@@ -1,0 +1,28 @@
+{
+  "name": "fd-version-controll",
+  "version": "1.0.0",
+  "description": "Version Controll Script by Freech",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N/A.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "freech_dev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "bots": {
+        "1": {
+            "name": "Omni Bot",
+            "description": "Omni Bot by Freech",
+            "author": "freech_dev",
+            "version": "1.5.0"
+        },
+        "2": {
+            "name": "Freech TIckets Bot",
+            "description": "Freech TIckets Bot by Freech",
+            "author": "freech_dev",
+            "version": "1.0.5"
+        }
+    }
+}
